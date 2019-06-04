@@ -1,0 +1,16 @@
+.line{
+	background: #180fde;
+	height: 50px;
+	width: 100%;
+};
+.container{
+	float: right;
+}
+.car{
+	background: #180fde;
+	height: 50px;
+	width: 100px;
+}
+.birt{
+	display: flex;
+}
